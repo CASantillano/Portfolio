@@ -1,1 +1,0 @@
-import{a as e,f as r}from"../chunks/D7LnGNQ_.js";import"../chunks/DyZ8HZ4A.js";import{o as s}from"../chunks/C4UX3EAS.js";var t=r('<h1 class="svelte-1uha8ag">Welcome to My Portfolio</h1> <p class="svelte-1uha8ag">work in progress</p> <a href="/projects" class="nav-link svelte-1uha8ag">Projects</a>',1);function n(a){var o=t();s(4),e(a,o)}export{n as component};
